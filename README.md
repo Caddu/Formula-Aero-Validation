@@ -6,7 +6,7 @@ CFD and wind tunnel aerodynamic validation project developed for a Formula SAE e
 
 # Overview
 
-This project combines Computational Fluid Dynamics (CFD), wind tunnel testing, instrumentation, data acquisition, and signal post-processing for aerodynamic validation and development of a Formula SAE aerodynamic package.
+This project combines Computational Fluid Dynamics (CFD), wind tunnel testing, instrumentation, data acquisition, additive manufacturing, and signal post-processing for aerodynamic validation and development of a Formula SAE aerodynamic package.
 
 The workflow integrates:
 
@@ -16,6 +16,11 @@ The workflow integrates:
 - Instrumentation and data acquisition
 - Signal filtering and post-processing
 - Numerical–experimental correlation
+- Additive manufacturing and prototype preparation
+
+The aerodynamic validation workflow was developed using a 1:8 scale Formula SAE prototype specifically designed for wind tunnel testing and numerical–experimental correlation studies.
+
+The aerodynamic prototype was manufactured using additive manufacturing techniques and underwent aerodynamic surface preparation procedures to improve surface quality and experimental repeatability during wind tunnel testing.
 
 ---
 
@@ -44,6 +49,7 @@ MATLAB-based aerodynamic signal filtering, statistical analysis, and aerodynamic
 - Wind Tunnel Testing
 - Signal Processing
 - Data Acquisition
+- Additive Manufacturing
 
 ---
 
@@ -56,6 +62,8 @@ MATLAB-based aerodynamic signal filtering, statistical analysis, and aerodynamic
 - Instrumentation
 - CFD Correlation
 - Aerodynamic Optimization
+- Signal Processing
+- Wind Tunnel Testing
 
 ---
 
