@@ -1,6 +1,6 @@
 # Wind Tunnel DAQ System
 
-Custom multi-channel aerodynamic data acquisition system developed for 1:8 scale wind tunnel testing.
+Custom multi-channel aerodynamic data acquisition system developed for 1:8 FSAE car scale wind tunnel testing.
 
 ## Features
 
