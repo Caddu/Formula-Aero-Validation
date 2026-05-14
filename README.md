@@ -127,7 +127,7 @@ The CFD workflow included:
 
 Additional technical details, CFD methodology, aerodynamic instrumentation architecture, experimental setup, and validation procedures are available in the undergraduate thesis related to this project:
 
-[View Thesis](LINK_DA_MONOGRAFIA)
+[View Thesis](https://bdm.unb.br/handle/10483/43883)
 
 ---
 
