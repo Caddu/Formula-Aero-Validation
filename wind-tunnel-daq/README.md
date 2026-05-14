@@ -1,48 +1,16 @@
-# Wind Tunnel Data Acquisition
+# Wind Tunnel DAQ System
 
-This directory contains the aerodynamic force-balance acquisition system developed for Formula SAE wind tunnel testing.
+Custom multi-channel aerodynamic data acquisition system developed for 1:8 scale wind tunnel testing.
 
-The system integrates load cells, HX711 modules, Arduino firmware, and Python-based data logging for aerodynamic force acquisition and experimental validation.
+## Features
 
-The experimental setup was specifically designed for 1:8 scale aerodynamic testing using a custom force-balance architecture and dedicated instrumentation workflow.
+- 5-load-cell acquisition architecture
+- HX711-based signal acquisition
+- Arduino-based DAQ system
+- Real-time aerodynamic force logging
+- Experimental force balance integration
 
----
+## Files
 
-# Contents
-
-- Arduino acquisition firmware
-- Python data logger
-- Serial communication workflow
-- Experimental aerodynamic data acquisition
-
----
-
-# Main Features
-
-- Multi-channel force acquisition
-- Real-time aerodynamic data logging
-- HX711 integration
-- Serial communication
-- Experimental aerodynamic testing
-- Aerodynamic force monitoring
-- Signal acquisition and storage
-
----
-
-# Technologies
-
-- Arduino
-- C
-- Python
-- HX711
-- Load Cells
-
----
-
-# Applications
-
-- Wind tunnel testing
-- Aerodynamic force acquisition
-- Experimental validation
-- Aerodynamic instrumentation
-- Motorsport aerodynamic testing
+- `arduino_firmware.c` — Embedded firmware for load-cell acquisition
+- `wind_tunnel_logger.py` — Real-time aerodynamic data logger
